@@ -1,4 +1,4 @@
-# Desenvolvendo o Pensamento Computacional no Nível Superior: Estratégias de Ensino para Programação
+# Pesquisa do Doutorado
 
 ## 💻 Sobre o Projeto de Pesquisa
 
